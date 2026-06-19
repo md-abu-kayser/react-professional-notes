@@ -1,0 +1,20 @@
+{
+  "name": "react-professional-notes",
+  "version": "1.0.0",
+  "description": "A structured learning repository for React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-abu-kayser/react-professional-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md-abu-kayser/react-professional-notes/issues"
+  },
+  "homepage": "https://github.com/md-abu-kayser/react-professional-notes#readme"
+}
