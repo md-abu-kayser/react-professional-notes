@@ -1,3 +1,3 @@
 # Contributing
 
-Open issues and pull requests with clear context.
+Please use the issue templates and follow the pull request template.
