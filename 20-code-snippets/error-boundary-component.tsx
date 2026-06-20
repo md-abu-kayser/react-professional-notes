@@ -1,0 +1,23 @@
+import { Component, ErrorInfo, ReactNode } from "react";
+interface Props {
+  children: ReactNode;
+  fallback?: ReactNode;
+}
+interface State {
+  hasError: boolean;
+  error?: Error;
+}
+export class ErrorBoundary extends Component<Props, State> {
+  state: State = { hasError: false };
+  static getDerivedStateFromError(error: Error) {
+    return { hasError: true, error };
+  }
+  componentDidCatch(error: Error, info: ErrorInfo) {
+    console.error(error, info);
+  }
+  render() {
+    if (this.state.hasError)
+      return this.props.fallback || <div>Something went wrong.</div>;
+    return this.props.children;
+  }
+}
