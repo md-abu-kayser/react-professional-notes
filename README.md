@@ -176,7 +176,7 @@ Quick reference guides and external resources
 
 ### Prerequisites
 
-- Node.js 18+ and npm 9+
+- Node.js and npm
 - Basic knowledge of JavaScript (ES6+)
 - A code editor (VS Code recommended)
 - Git for version control
@@ -186,7 +186,7 @@ Quick reference guides and external resources
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/react-professional-notes.git
+   git clone https://github.com/md-abu-kayser/react-professional-notes.git
    cd react-professional-notes
    ```
 
@@ -477,9 +477,9 @@ This comprehensive guide is built upon:
 
 ## 🌐 Connect With Us
 
-- **GitHub**: [Visit Repository](https://github.com/yourusername/react-professional-notes)
-- **Issues**: [Report Issues or Request Features](https://github.com/yourusername/react-professional-notes/issues)
-- **Discussions**: [Join Community Discussions](https://github.com/yourusername/react-professional-notes/discussions)
+- **GitHub**: [Visit Repository](https://github.com/md-abu-kayser/react-professional-notes)
+- **Issues**: [Report Issues or Request Features](https://github.com/md-abu-kayser/react-professional-notes/issues)
+- **Discussions**: [Join Community Discussions](https://github.com/md-abu-kayser/react-professional-notes/discussions)
 
 ---
 
@@ -501,7 +501,5 @@ If this resource has helped you, please:
 **Elevate Your React Skills. Master Modern Web Development.**
 
 ---
-
-_Last Updated: June 2024 | Version 1.0.0 | MIT License_
 
 </div>
